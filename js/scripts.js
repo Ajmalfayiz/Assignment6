@@ -1,11 +1,11 @@
 
 // input from user
 let name=prompt('Enter your Name');
-let mathsMark=prompt('enter the mark in Maths');
-let englishMark=prompt('enter the mark in English');
-let chemistrymark=prompt('enter the mark in Chemistry');
-let physicsMark=prompt('enter the mark in Physics');
-let MalayalamMark=prompt('enter the mark in Malayalam');
+let mathsMark=prompt('Enter the mark in Maths');
+let englishMark=prompt('Enter the mark in English');
+let chemistrymark=prompt('Enter the mark in Chemistry');
+let physicsMark=prompt('Enter the mark in Physics');
+let MalayalamMark=prompt('Enter the mark in Malayalam');
 
 
 // convert user string input to number
